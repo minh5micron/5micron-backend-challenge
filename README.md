@@ -1,6 +1,6 @@
 # 5micron-backend-challenge
 
-We are working on a project functioning as an IOT platform. Daily backend tasks involves maintaining web servers and communication with IOT sensors (guarantee performance and security). This is the a challenge that candidate should pass to show his/her capability to work comfortably in our environment. The challenge contains:
+We are working on a project functioning as an IOT platform. Daily backend tasks involves maintaining web servers and communication with IOT sensors (guarantee performance and security). This is the challenge that candidate should pass to show his/her capability to work comfortably in our environment. The challenge contains:
 1. Create a NodeJS web server listening at port 3000.
 2. Create a Postgresql database to store incoming sensor data.
 3. Create a REST API endpoint [api/sensors](http://localhost:3000/api/sensors) at the web server to handle incoming sensor data in JSON format:
